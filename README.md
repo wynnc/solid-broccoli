@@ -1,9 +1,6 @@
-This is the Read Me file.
+Name of project.
 
-I added it in so that Grace would give me an A+.
+url to the project.
 
-Grace is the Best.
+languages and people that worked on the project and links to their information.
 
-Sarah ROCKS.
-
-Lindsay is super COOL!
